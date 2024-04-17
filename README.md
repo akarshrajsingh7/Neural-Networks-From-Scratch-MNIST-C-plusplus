@@ -1,4 +1,4 @@
-# AdvPT Project WS 2023: Handwriting Recognition (MNIST) in C++ (Group-47-OverFitters)
+# Handwriting Recognition (MNIST) in C++
 
 This repository provides a comprehensive implementation of Neural Network in C++ for the task of Handwriting recognition i.e. identify the the handwritten digits in the images.
 
